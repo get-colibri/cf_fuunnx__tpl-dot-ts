@@ -4,7 +4,7 @@ lib/README.md
 
 &#8203;
 
-**Salut !**
+**Salut**** !**
 
 &#8203;
 
